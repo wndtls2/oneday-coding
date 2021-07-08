@@ -1,3 +1,5 @@
+package M07.D07;
+
 import java.util.stream.Stream;
 
 /*
