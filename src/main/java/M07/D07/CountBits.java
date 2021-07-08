@@ -1,3 +1,5 @@
+package M07.D07;
+
 /*
  * int 형 숫자를 하나 입력받아 1인 비트 개수를 세는 매서드를 작성하세요.
  * 단 Integer.toBinaryString 또는 Interger.toString 함수를 사용하지 않고 구현합니다.
